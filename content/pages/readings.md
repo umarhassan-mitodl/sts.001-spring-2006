@@ -2,6 +2,8 @@
 content_type: page
 description: The readings sections includes required readings and films scripts for
   this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

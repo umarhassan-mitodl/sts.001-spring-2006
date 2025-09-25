@@ -5,6 +5,8 @@ description: This resource includes information on guidelines for preparing a sc
 file: /courses/sts-001-technology-in-american-history-spring-2006/a19a0d00b7b0df21ae0183cce7c0ec4d_essay_guide.pdf
 file_size: 22863
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource includes information on key points in the history of 
 file: /courses/sts-001-technology-in-american-history-spring-2006/a6947b3e3042c03f016a46f54e1f7e5d_04_24_outline.pdf
 file_size: 11270
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

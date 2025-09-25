@@ -6,6 +6,8 @@ description: This resource includes information on firing a flintlock rifle, man
 file: /courses/sts-001-technology-in-american-history-spring-2006/1878730bfa7a1b96460571a8bfd00c71_02_21_gunsmith.pdf
 file_size: 918986
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
