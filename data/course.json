@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ]
+  ],
+  "legacy_uid": "ade0f6ee-ac84-a1c1-e9cc-c5bd132bd1f2",
+  "instructors": {
+    "content": [
+      "d7f32266-6f58-3606-54fa-d4b85b599d5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "20a2c412-4e4c-18fb-f27c-05ace514dada",
+    "website": "sts-001-technology-in-american-history-spring-2006"
+  },
+  "course_title": "Technology in American History",
+  "course_description": "This course will consider the ways in which technology, broadly defined, has contributed to the building of American society from colonial times to the present. This course has three primary goals: to train students to ask critical questions of both technology and the broader American culture of which it is a part; to provide an historical perspective with which to frame and address such questions; and to encourage students to be neither blind critics of new technologies, nor blind advocates for technologies in general, but thoughtful and educated participants in the democratic process.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.001",
+  "course_image_thumbnail": {
+    "content": "22e61f99-0322-5215-12b9-8f108c761fc5",
+    "website": "sts-001-technology-in-american-history-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "4a0942c3-fa6c-45d6-ab7e-6c57f94cdce5",
+  "site_short_id": "sts.001-spring-2006",
+  "site_url_path": "courses/sts-001-technology-in-american-history-spring-2006",
+  "title": "Course Metadata"
+}
