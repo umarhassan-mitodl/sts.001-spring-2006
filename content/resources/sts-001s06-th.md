@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/sts-001-technology-in-american-history-spring-2006/22e61f990322521512b98f108c761fc5_sts-001s06-th.jpg
 file_size: 9544
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Bridge on Orange & Alexandria \[Virginia\] Railroad, as repaired by army
     engineers under Colonel Herman Haupt, 1865. (Photo courtesy of Andrew J. Russell.

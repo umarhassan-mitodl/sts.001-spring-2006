@@ -5,6 +5,8 @@ description: This resource includes information on guidelines on how to write a 
 file: /courses/sts-001-technology-in-american-history-spring-2006/57df5eaa13ef0b2f62822a37c56b2c6e_response_guide.pdf
 file_size: 92474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
